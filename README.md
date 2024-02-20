@@ -9,10 +9,10 @@ This a is Test-Driven Development (TDD) UI Test Automation Framework for Automat
 4. JUnit 
 5. Page Object Model (POM) 
 6. Test-Driven Development (TDD)
-7. Log4J
 8. XML
-9. Maven
-10. Eclipse IDE
+9. Log4J
+10. Maven
+11. Eclipse IDE
 
 #### About:
 • We can perform Automation Testing of NetBanking (demo.guru99.com/v4/index.php) web application using this Test Automation Framework. 
