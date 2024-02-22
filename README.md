@@ -23,4 +23,4 @@ This a is Test-Driven Development (TDD) UI Test Automation Framework for Automat
 
 •	Log4J is added to record each and every log statement at each and every execution step. 
 
-•	This is a Test-Driven Development (TDD) Test Automation Framework, So further can add as many as Test Cases according to our wish of going in-depth Automation Testing of the Application.
+•	This is a Test-Driven Development (TDD) Test Automation Framework, So we further can add as many as Test Cases according to our wish of going in-depth Automation Testing of the Application.
