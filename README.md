@@ -9,6 +9,7 @@ This a is Test-Driven Development (TDD) UI Test Automation Framework for Automat
 4. JUnit 
 5. Page Object Model (POM) 
 6. Test-Driven Development (TDD)
+7. Object Oriented Programming (OOPs)
 8. XML
 9. Log4J
 10. Maven
